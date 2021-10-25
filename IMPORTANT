@@ -1,0 +1,11 @@
+pubkey address: BceS2xUBEKHeeXpAmPmYvavhcJtfcxBjTj7ygqEL7ujn
+
+candy machine with publickey: 4koqf7u1nBNDRAhjpGp4NVFyM6Q54S9hh3k1oWNUjgLv
+
+{"program":{"uuid":"4koqf7","config":"4koqf7u1nBNDRAhjpGp4NVFyM6Q54S9hh3k1oWNUjgLv"},"items":{"0":{"link":"https://arweave.net/3OxDPESZS0ZCRWnd4xkr_dqBHAwzGkrWDXqAcej6D5g","name":"Rolling Planet #0","onChain":true},"1":{"link":"https://arweave.net/E2KzNs84c-Hqj5kb6Qrt_IP2cFVu4CX0z0bzkLorfhE","name":"Rolling Planet #1","onChain":true},"2":{"link":"https://arweave.net/08vbMp4ow-vBT8c3GudQkx4zTrsojd0erWlqwM7jBEU","name":"Rolling Planet #2","onChain":true},"3":{"link":"https://arweave.net/94d6XAiI3ADGneIAEfvOGk6NZ9KUkJbvCM7yDXQf4PI","name":"Rolling Planet #3","onChain":true}},"env":"devnet","cacheName":"temp","authority":"BceS2xUBEKHeeXpAmPmYvavhcJtfcxBjTj7ygqEL7ujn","candyMachineAddress":"6THUKwqjHYpigRLQbJuoia6Skiy32PgCXyBeJzup45Kg"}
+
+candy machine pubkey: 6THUKwqjHYpigRLQbJuoia6Skiy32PgCXyBeJzup45Kg
+
+1634803200 (21 oct 2021 00:00:00 PST)
+
+// we will change these for launch in .env (maybe we keep the address- pubkey)

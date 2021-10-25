@@ -1,0 +1,56 @@
+{
+  "name": "Rolling Planet #2",
+  "symbol": "ROLP",
+  "description": "Rolling planets is full of well...planets that are on a roll. We aim to support the next generation of engineers and scientists as well as give back to our holders.",
+  "seller_fee_basis_points": 500,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Nebulae",
+      "value": "Double Nebula"
+    },
+    {
+      "trait_type": "Starfields",
+      "value": "Irregular Starfield"
+    },
+    {
+      "trait_type": "Comets",
+      "value": "Exploded Icy Comet"
+    },
+    {
+      "trait_type": "Planet",
+      "value": "Ocean Planet"
+    },
+    {
+      "trait_type": "Moon",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Rings",
+      "value": "Water & Ice Ring"
+    }
+  ],
+  "collection": {
+    "name": "Rolling Planets",
+    "family": "Space Wonders"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BceS2xUBEKHeeXpAmPmYvavhcJtfcxBjTj7ygqEL7ujn",
+        "share": 100
+      }
+    ]
+  }
+}
